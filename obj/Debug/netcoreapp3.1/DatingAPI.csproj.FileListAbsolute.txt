@@ -58,3 +58,7 @@ D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\runtime
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\obj\Debug\netcoreapp3.1\DatingAPI.csproj.CoreCompileInputs.cache
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\obj\Debug\netcoreapp3.1\DatingAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
