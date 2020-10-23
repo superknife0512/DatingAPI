@@ -55,10 +55,14 @@ D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\runtime
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\obj\Debug\netcoreapp3.1\DatingAPI.csproj.CoreCompileInputs.cache
-D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\obj\Debug\netcoreapp3.1\DatingAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\obj\Debug\netcoreapp3.1\DatingAPI.csproj.CoreCompileInputs.cache
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\obj\Debug\netcoreapp3.1\DatingAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\NET\DatingApp-v2\DatingAPI\DatingAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
